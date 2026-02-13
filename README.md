@@ -20,7 +20,16 @@ Built with:
 - Services Section
 - Media Gallery
 - News Section
+## Screenshots
 
+### Homepage
+![Homepage](home.png)
+
+### Services Section
+![Services](services)
+
+### Inspire Section
+![About](inspire.png)
 
 
 ## Live Demo
