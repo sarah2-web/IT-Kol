@@ -1,6 +1,6 @@
 # IT-Kol
 
-![IT-Kol Logo](logo.png)
+![IT-Kol Logo](logo.png.webp)
 
 ## About the Project
 IT-Kol is an IT services website featuring multiple sections such as:
@@ -21,16 +21,7 @@ Built with:
 - Media Gallery
 - News Section
 
-## Screenshots
 
-### Homepage
-![Homepage](hero-img.png)
-
-### Services Section
-![Services](services1.svg)
-
-### About Section
-![About](about1.jpg.webp)
 
 ## Live Demo
 [IT-Kol Live](https://sarah2-web.github.io/IT-Kol/)
