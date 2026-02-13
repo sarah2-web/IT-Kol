@@ -5,3 +5,5 @@ This project is a modern, responsive HTML/CSS/Bootstrap website with a clean des
 
 ## 🌐 Live Demo
 Check the live website here: [IT-Kol Live](https://sarah2-web.github.io/IT-Kol)
+
+## 📂 Project Structure
