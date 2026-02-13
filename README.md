@@ -1,20 +1,7 @@
-IT-Kol
-Description
-IT-Kol is a responsive IT solutions website built using HTML, CSS, and Bootstrap 5.
-It showcases a clean design with modern layout and responsive behavior.
+# IT-Kol Website
 
-Features
-Responsive layout (desktop & mobile)
-Hero section with image
-Services/features section
-Navigation bar
-Footer with contact info
-Clean and modern design
-Technologies
-HTML | CSS | Bootstrap | JavaScript
+Full project restored for IT-Kol website.  
+This project is a modern, responsive HTML/CSS/Bootstrap website with a clean design.
 
-Preview
-Screenshot Placeholder
-
-Live Demo
-View Live Site
+## 🌐 Live Demo
+Check the live website here: [IT-Kol Live](https://sarah2-web.github.io/IT-Kol)
