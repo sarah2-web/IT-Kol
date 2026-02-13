@@ -26,7 +26,7 @@ Built with:
 ![Homepage](home.png)
 
 ### Services Section
-![Services](services)
+![Services](services.png)
 
 ### Inspire Section
 ![About](inspire.png)
