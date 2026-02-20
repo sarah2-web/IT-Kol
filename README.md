@@ -2,6 +2,9 @@
 
 ![IT-Kol Logo](logo.png.webp)
 
+## Live Demo
+[IT-Kol Live](https://sarah2-web.github.io/IT-Kol/)
+
 ## About the Project
 IT-Kol is an IT services website featuring multiple sections such as:
 - Available services
@@ -32,8 +35,6 @@ Built with:
 ![About](inspire.png)
 
 
-## Live Demo
-[IT-Kol Live](https://sarah2-web.github.io/IT-Kol/)
 
 ## Installation / Usage
 To run the project locally:
